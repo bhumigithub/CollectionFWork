@@ -11,9 +11,9 @@ public class ArrayListSort {
 		al.add("sakshi");
 		al.add("bhumi");
 		al.add("aditi");
-		al.add("trupti");
+		al.add(" trupti");
 		al.add("priti");
-		al.add("chetna");
+		al.add("  chetna");
 		al.add("dipali");
 		al.add("kavita");
 		al.add("rasika");
